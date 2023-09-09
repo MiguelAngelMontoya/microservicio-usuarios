@@ -1,0 +1,6 @@
+com\formacionbdi\microservicios\app\usuarios\entity\Alumno.class
+com\formacionbdi\microservicios\app\usuarios\MicroservicioUsuariosApplication.class
+com\formacionbdi\microservicios\app\usuarios\repository\IAlumnoRepository.class
+com\formacionbdi\microservicios\app\usuarios\services\AlumnoServiceImpl.class
+com\formacionbdi\microservicios\app\usuarios\controller\AlumnoController.class
+com\formacionbdi\microservicios\app\usuarios\services\IAlumnoService.class
